@@ -1,0 +1,2 @@
+- the XSS attack is no longer possible
+- you cannot execute arbitrary JavaScript via a post comment
